@@ -4,6 +4,7 @@ Programming 6212 – Part 1 assignment project.
 
 ## Folder Contents
 
+
 This folder contains the planning and database documents for Part 1 of the RaceDay System:
 
 - **RaceDay_ERD.pdf** – Entity Relationship Diagram (ERD).
@@ -47,6 +48,9 @@ To test the database:
 4. It creates all seven tables and their constraints.
 5. It inserts sample seed data.
 6. It runs verification `SELECT` statements to confirm that the data was created successfully.
+
+
+   https://youtu.be/_L_-ZS-t8MQ?si=m6o0PIRuDDhwURJS
 
 ## Database Technologies
 
